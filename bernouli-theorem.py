@@ -7,7 +7,7 @@ def ms_to_kmh(ms):
     return ms*3.6
 def kmh_to_ms(kmh):
     return kmh/3.6
-ms=kmh_to_ms(60)
+ms=kmh_to_ms(90)
 v_freestream=np.linspace(0,ms,100)
 v_accelerated=v_freestream*1.5
 delta_p=berno(v_freestream,v_accelerated,rho)
