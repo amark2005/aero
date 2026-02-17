@@ -3,7 +3,7 @@ Learning **Aerodynamics using python**
 
 ---
 ## What is inside?
-1. ~~Bernoulli’s principle~~
+1. ~~A simplified Bernoulli-based pressure difference model for accelerated flow~~
 2. 
 ---
 ## Tech used:
