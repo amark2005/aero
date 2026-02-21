@@ -6,6 +6,7 @@ Learning **Aerodynamics using python**
 1. ~~A simplified Bernoulli-based pressure difference model for accelerated flow~~
 2. ~~Ideal Gas~~
 3. ~~Gay Lussac's Law~~
+4. ~~Braking~~
 ---
 ## Tech used:
 1. Python
